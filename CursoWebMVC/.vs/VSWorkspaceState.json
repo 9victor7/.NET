@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CapaDatos",
+    "\\CapaEntidad",
+    "\\CapaNegocio",
+    "\\CapaPresentacionAdmin",
+    "\\CapaPresentacionAdmin\\Controllers"
+  ],
+  "SelectedNode": "\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
