@@ -1,92 +1,92 @@
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\csc.exe
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\csc.exe.config
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\csc.rsp
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\csi.exe
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\csi.exe.config
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\csi.rsp
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.AppContext.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Console.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Globalization.Calendars.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Net.Http.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Net.Sockets.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.ValueTuple.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.XmlDocument.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\vbc.exe
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\vbc.rsp
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaEntidad.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaNegocio.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Helpers.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Mvc.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Optimization.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Razor.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.WebPages.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\WebGrease.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaDatos.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaEntidad.pdb
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaNegocio.pdb
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Helpers.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Mvc.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Optimization.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.Razor.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.WebPages.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\CapaDatos.pdb
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CopyComplete
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
-C:\.NET\CursoWebMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\csc.exe
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\csc.rsp
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\csi.exe
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\csi.rsp
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.AppContext.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Console.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Net.Http.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Net.Sockets.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.ValueTuple.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\vbc.exe
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaNegocio.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Razor.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaNegocio.pdb
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.Razor.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CopyComplete
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+C:\Proyecto .NET\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb

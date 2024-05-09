@@ -11,13 +11,26 @@ namespace CapaEntidad
     {
 
 
-        public int IdUsuariov { get; set; }
+        public int IdUsuario { get; set; }
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
         public string Correo { get; set; }
         public string Clave { get; set; }
         public bool Reestablecer { get; set; }
         public bool Activo { get; set; }
-      
+
+
+        public Usuario()
+        {
+
+            IdUsuario = int.MinValue;
+            Nombres = "";
+            Apellidos = "";
+            Correo = "";
+            Clave = "";
+            Reestablecer = true;
+            Activo = true;
+        }
+
     }
 }

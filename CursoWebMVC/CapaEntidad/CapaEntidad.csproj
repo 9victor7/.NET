@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2BC73398-C4B0-451C-8B01-185BA17E6318}</ProjectGuid>
+    <ProjectGuid>{A3FAF7B1-2F98-451D-AA8A-6F86283AADB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CapaEntidad</RootNamespace>
@@ -46,7 +46,7 @@
     <Compile Include="Cliente.cs" />
     <Compile Include="Departamento.cs" />
     <Compile Include="DetalleVenta.cs" />
-    <Compile Include="Distrito.cs" />
+    <Compile Include="Dsitrito.cs" />
     <Compile Include="Marca.cs" />
     <Compile Include="Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

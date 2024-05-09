@@ -1,13 +1,11 @@
-C:\Users\CO20051\OneDrive - Cirion Technologies\Documentos\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
-C:\Users\CO20051\OneDrive - Cirion Technologies\Documentos\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
-C:\.NET\CursoWebMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
-C:\.NET\CursoWebMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
-C:\.NET\CursoWebMVC\CapaNegocio\bin\Debug\CapaDatos.dll
-C:\.NET\CursoWebMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
-C:\.NET\CursoWebMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
-C:\.NET\CursoWebMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
-C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
-C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
-C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
-C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
-C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
