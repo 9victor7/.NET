@@ -9,3 +9,7 @@ C:\Proyecto .NET\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
 C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Proyecto .NET\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\.NET\CursoWebMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb

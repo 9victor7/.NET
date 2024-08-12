@@ -90,3 +90,7 @@ C:\Proyecto .NET\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
 C:\Proyecto .NET\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
 C:\Proyecto .NET\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
 C:\Proyecto .NET\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\.NET\CursoWebMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\.NET\CursoWebMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\.NET\CursoWebMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\.NET\CursoWebMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb

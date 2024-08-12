@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Remoting;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -42,12 +43,31 @@ namespace CapaNegocio
                 Mensaje = "El Correo del  usuario no puede ser vacio";
             }
 
-            if (string.IsNullOrEmpty(Mensaje))
-            {
-                string clave = "test123";
-                obj.Clave = clave;
+            if (string.IsNullOrEmpty(Mensaje)) {
 
-                return objCapaDato.Registrar(obj, out Mensaje);
+                string clave = CN_Recursos.generarclave();
+
+                string asunto = "Cracion de Cuenta";
+                string mensaje_correo = "<h3>Su cuenta fue creada correctament</h3></br><p>Su contraseña para acceder es:!clave!</p>";
+                mensaje_correo = mensaje_correo.Replace("!clave!", clave);
+
+                bool respuesta = CN_Recursos.EnviarCorreo(obj.Correo, asunto, mensaje_correo);
+
+
+                if (respuesta){
+
+                    obj.Clave = CN_Recursos.ConvertirSha256(clave);
+
+                    return objCapaDato.Registrar(obj, out Mensaje);
+                }
+                else {
+
+                    Mensaje = "No se puede enviar el correo";
+                    
+                }
+
+
+               
             }
 
             else
